@@ -16,6 +16,11 @@ namespace Metotlar
             Console.WriteLine("tebrikler, sepete eklendi :" + Adi);
         }
 
+        public void Ekle3()
+        {
+            Console.WriteLine("Ürün sepete eklendi.");
+        }
+
 
     }
 }
